@@ -1,0 +1,425 @@
+[
+  {
+        
+        "musteriNo":"203005",
+        "isim":"Aytac",
+        "soyad":"Guley",
+        "dogumTarihi":"26/01/1980",
+        "dogumYeri":"Gazi Magusa",
+        "hesapNo":"123456789",
+        "bakiye":"95500"
+    },
+
+    {   
+        
+        "musteriNo":"203006",
+        "isim":"Steve",
+        "soyad":"Jobs",
+        "dogumTarihi":"20/03/1964",
+        "dogumYeri":"Los Angelos",
+        "hesapNo":"1234561212",
+        "bakiye":"165985"
+    },
+
+    {   
+        
+        "musteriNo":"203007",
+        "isim":"Elon",
+        "soyad":"Musk",
+        "dogumTarihi":"16/04/1970",
+        "dogumYeri":"New York",
+        "hesapNo":"1234562211",
+        "bakiye":"365985"
+    },
+
+    {   
+        
+        "musteriNo":"203009",
+        "isim":"Mark",
+        "soyad":"Zuckerberg",
+        "dogumTarihi":"23/04/1983",
+        "dogumYeri":"Los Angelos",
+        "hesapNo":"1234561212",
+        "bakiye":"165985"
+    },
+
+    {   
+        
+        "musteriNo":"203011",
+        "isim":"Bill",
+        "soyad":"Gates",
+        "dogumTarihi":"21/07/1962",
+        "dogumYeri":"Los Angelos",
+        "hesapNo":"1234444112",
+        "bakiye":"895000"
+    },
+
+    {   
+        
+        "musteriNo":"203015",
+        "isim":"John",
+        "soyad":"Wick",
+        "dogumTarihi":"21/07/1975",
+        "dogumYeri":"Los Angelos",
+        "hesapNo":"1234444212",
+        "bakiye":"3895000"
+    },
+    {   
+        
+        "musteriNo":"203331",
+        "isim":"James",
+        "soyad":"Brown",
+        "dogumTarihi":"21/08/1977",
+        "dogumYeri":"Las Vegas",
+        "hesapNo":"12344412211",
+        "bakiye":"95520"
+    },
+    {   
+        
+        "musteriNo":"204115",
+        "isim":"Jennifer",
+        "soyad":"Lopez",
+        "dogumTarihi":"24/07/1969",
+        "dogumYeri":"New York",
+        "hesapNo":"1232311231",
+        "bakiye":"2395520"
+    },
+    {   
+        
+        "musteriNo":"204215",
+        "isim":"Jennifer",
+        "soyad":"Lawrence",
+        "dogumTarihi":"15/08/1990",
+        "dogumYeri":"Kentucky",
+        "hesapNo":"1232319011",
+        "bakiye":"145633"
+    },
+
+    {   
+        
+        "musteriNo":"204119",
+        "isim":"Angelina",
+        "soyad":"Jolie",
+        "dogumTarihi":"04/06/1975",
+        "dogumYeri":"California",
+        "hesapNo":"1232319771",
+        "bakiye":"945633"
+    },
+
+    {   
+        
+        "musteriNo":"204129",
+        "isim":"Brad",
+        "soyad":"Pitt",
+        "dogumTarihi":"18/12/1963",
+        "dogumYeri":"Oklahoma",
+        "hesapNo":"1232319772",
+        "bakiye":"5945633"
+    },
+
+    {   
+        
+        "musteriNo":"213129",
+        "isim":"Leonardo",
+        "soyad":"Dicaprio",
+        "dogumTarihi":"11/11/1974",
+        "dogumYeri":"California",
+        "hesapNo":"1234329772",
+        "bakiye":"15045133"
+    },
+
+    {   
+        
+        "musteriNo":"213221",
+        "isim":"Kate",
+        "soyad":"Winslet",
+        "dogumTarihi":"05/10/1975",
+        "dogumYeri":"Reading",
+        "hesapNo":"1334329712",
+        "bakiye":"23015439"
+    },
+
+    {   
+        
+        "musteriNo":"225251",
+        "isim":"Emma",
+        "soyad":"Watson",
+        "dogumTarihi":"15/04/1990",
+        "dogumYeri":"Paris",
+        "hesapNo":"1334554123",
+        "bakiye":"985395"
+    },
+
+    {   
+        
+        "musteriNo":"225355",
+        "isim":"Daniel",
+        "soyad":"Radcliffe",
+        "dogumTarihi":"23/07/1989",
+        "dogumYeri":"Londra",
+        "hesapNo":"1324574423",
+        "bakiye":"1915395"
+    },
+
+    {   
+        
+        "musteriNo":"215315",
+        "isim":"Andrew",
+        "soyad":"Garfield",
+        "dogumTarihi":"20/08/1983",
+        "dogumYeri":"California",
+        "hesapNo":"1924301423",
+        "bakiye":"2945105"
+    },
+
+    {   
+        
+        "musteriNo":"225307",
+        "isim":"Anne",
+        "soyad":"Hathaway",
+        "dogumTarihi":"12/11/1982",
+        "dogumYeri":"Brooklyn",
+        "hesapNo":"1724103423",
+        "bakiye":"294215"
+    },
+
+    {   
+        
+        "musteriNo":"220347",
+        "isim":"Natalie",
+        "soyad":"Portman",
+        "dogumTarihi":"09/06/1981",
+        "dogumYeri":"Kudüs",
+        "hesapNo":"1924203423",
+        "bakiye":"12942215"
+    },
+
+    {   
+        
+        "musteriNo":"221347",
+        "isim":"Margot",
+        "soyad":"Robbie",
+        "dogumTarihi":"02/07/1990",
+        "dogumYeri":"Dalby",
+        "hesapNo":"1913213453",
+        "bakiye":"3942714"
+    },
+
+    {   
+        
+        "musteriNo":"222366",
+        "isim":"Gal",
+        "soyad":"Gadot",
+        "dogumTarihi":"30/04/1985",
+        "dogumYeri":"Petah Tikva",
+        "hesapNo":"1943223453",
+        "bakiye":"5992814"
+    },
+
+    {   
+        
+        "musteriNo":"224376",
+        "isim":"Emily",
+        "soyad":"Ratajkowski",
+        "dogumTarihi":"07/06/1991",
+        "dogumYeri":"Westminster",
+        "hesapNo":"1993521453",
+        "bakiye":"6292804"
+    },
+    {   
+        
+        "musteriNo":"225316",
+        "isim":"Megan",
+        "soyad":"Fox",
+        "dogumTarihi":"16/05/1986",
+        "dogumYeri":"Tennessee",
+        "hesapNo":"1993521400",
+        "bakiye":"9192844"
+    },
+
+    {   
+        
+        "musteriNo":"235006",
+        "isim":"Gigi",
+        "soyad":"Hadid",
+        "dogumTarihi":"23/04/1995",
+        "dogumYeri":"California",
+        "hesapNo":"1993521401",
+        "bakiye":"9491845"
+    },
+
+    {   
+        
+        "musteriNo":"231007",
+        "isim":"Kendall",
+        "soyad":"Jenner",
+        "dogumTarihi":"03/11/1995",
+        "dogumYeri":"California",
+        "hesapNo":"1993521402",
+        "bakiye":"1491815"
+    },
+
+    {   
+        
+        "musteriNo":"232008",
+        "isim":"Adriana",
+        "soyad":"Lima",
+        "dogumTarihi":"12/06/1981",
+        "dogumYeri":"Salvador",
+        "hesapNo":"1993521412",
+        "bakiye":"1392811"
+    },
+
+    {   
+        
+        "musteriNo":"232018",
+        "isim":"Alessandra",
+        "soyad":"Ambrosio",
+        "dogumTarihi":"11/04/1981",
+        "dogumYeri":"Rio Grande",
+        "hesapNo":"1693511411",
+        "bakiye":"2412811"
+    },
+
+    {   
+        
+        "musteriNo":"232118",
+        "isim":"Tom",
+        "soyad":"Cruise",
+        "dogumTarihi":"03/07/1962",
+        "dogumYeri":"New York",
+        "hesapNo":"1693511412",
+        "bakiye":"62912981"
+    },
+
+    {   
+        
+        "musteriNo":"232119",
+        "isim":"Richard",
+        "soyad":"Gere",
+        "dogumTarihi":"31/08/1949",
+        "dogumYeri":"Philadelphia",
+        "hesapNo":"2693511413",
+        "bakiye":"74912981"
+    },
+
+    {   
+        
+        "musteriNo":"232129",
+        "isim":"Julia",
+        "soyad":"Roberts",
+        "dogumTarihi":"28/10/1967",
+        "dogumYeri":"Georgia",
+        "hesapNo":"2693511414",
+        "bakiye":"93912981"
+    },
+
+    {   
+        
+        "musteriNo":"242229",
+        "isim":"Emma",
+        "soyad":"Roberts",
+        "dogumTarihi":"10/02/1991",
+        "dogumYeri":"New York",
+        "hesapNo":"2693511415",
+        "bakiye":"12212981"
+    },
+
+    {   
+        
+        "musteriNo":"212329",
+        "isim":"Evan",
+        "soyad":"Peters",
+        "dogumTarihi":"20/01/1987",
+        "dogumYeri":"Missouri",
+        "hesapNo":"2191511411",
+        "bakiye":"212981"
+    },
+
+    {   
+        
+        "musteriNo":"222329",
+        "isim":"Sarah",
+        "soyad":"Paulson",
+        "dogumTarihi":"17/12/1974",
+        "dogumYeri":"Florida",
+        "hesapNo":"2191511412",
+        "bakiye":"1322901"
+    },
+
+    {   
+        
+        "musteriNo":"282619",
+        "isim":"Ryan",
+        "soyad":"Murphy",
+        "dogumTarihi":"09/11/1965",
+        "dogumYeri":"Indiana",
+        "hesapNo":"2102515422",
+        "bakiye":"13622911"
+    },
+
+    
+    {   
+        
+        "musteriNo":"295629",
+        "isim":"Vin",
+        "soyad":"Diesel",
+        "dogumTarihi":"18/07/1967",
+        "dogumYeri":"California",
+        "hesapNo":"2112696422",
+        "bakiye":"73622911"
+    },
+    {   
+        
+        "musteriNo":"299620",
+        "isim":"Dwayne",
+        "soyad":"Johnson",
+        "dogumTarihi":"02/05/1972",
+        "dogumYeri":"California",
+        "hesapNo":"2112186423",
+        "bakiye":"65624924"
+    },
+    {   
+        
+        "musteriNo":"299521",
+        "isim":"Jason",
+        "soyad":"Statham",
+        "dogumTarihi":"26/07/1967",
+        "dogumYeri":"Shirebrook",
+        "hesapNo":"2114116424",
+        "bakiye":"95624924"
+    },
+
+    {   
+        
+        "musteriNo":"299522",
+        "isim":"Bruce",
+        "soyad":"Willis",
+        "dogumTarihi":"19/03/1955",
+        "dogumYeri":"Idar-Oberstein",
+        "hesapNo":"2211117427",
+        "bakiye":"73123924"
+    },
+
+    {   
+        
+        "musteriNo":"291523",
+        "isim":"Demi",
+        "soyad":"Moore",
+        "dogumTarihi":"11/11/1962",
+        "dogumYeri":"New Mexico",
+        "hesapNo":"2111118525",
+        "bakiye":"3133924"
+    },
+
+    {   
+        
+        "musteriNo":"291524",
+        "isim":"Mila",
+        "soyad":"Kunis",
+        "dogumTarihi":"14/08/1983",
+        "dogumYeri":"Ukrayna",
+        "hesapNo":"2111118521",
+        "bakiye":"6167914"
+    }
+]
